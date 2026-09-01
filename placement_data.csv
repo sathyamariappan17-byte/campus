@@ -1,0 +1,401 @@
+roll_no,gender,programme,level,specialisation,ssc_p,hsc_p,degree_p,backlogs,internships,projects,certifications,coding_score,communication_score,workex,status,salary_lpa
+22CS001,Female,B.Sc CS,UG,Cyber Security,66.15,63.7,63.29,1,1,2,2,51,5.1,Yes,Not Placed,
+22CS002,Male,MCA,PG,Full Stack,67.39,66.04,69.56,0,1,4,2,66,6.1,No,Placed,5.9
+22CS003,Female,M.Sc CS,PG,Cloud & DevOps,99.0,80.57,77.29,0,3,3,2,74,5.4,No,Placed,6.06
+22CS004,Female,B.Sc CS,UG,Full Stack,94.02,84.98,78.64,0,1,3,2,60,7.6,No,Placed,4.93
+22CS005,Male,MCA,PG,AI & Data Science,71.88,75.88,71.8,1,1,2,2,64,5.8,No,Not Placed,
+22CS006,Female,MCA,PG,AI & Data Science,72.36,63.63,69.36,0,1,3,2,55,4.4,No,Placed,5.22
+22CS007,Female,B.Sc CS,UG,Cyber Security,64.51,68.02,67.87,1,1,2,2,95,5.7,Yes,Placed,6.24
+22CS008,Female,MCA,PG,AI & Data Science,56.92,62.52,64.28,2,1,3,2,59,6.4,Yes,Placed,5.32
+22CS009,Male,B.Sc CS,UG,Full Stack,74.83,75.4,73.66,1,1,0,2,89,6.9,No,Placed,6.5
+22CS010,Male,MCA,PG,Cloud & DevOps,66.02,68.64,75.97,1,0,3,2,66,9.4,Yes,Placed,5.99
+22CS011,Male,M.Sc CS,PG,AI & Data Science,75.15,65.88,62.17,2,0,4,2,62,5.0,No,Not Placed,
+22CS012,Female,M.Sc CS,PG,AI & Data Science,60.0,58.58,66.23,2,0,3,2,43,5.8,No,Not Placed,
+22CS013,Female,B.Sc CS,UG,Cloud & DevOps,68.38,70.17,62.53,1,3,1,2,53,6.9,Yes,Placed,5.42
+22CS014,Female,MCA,PG,Full Stack,77.49,80.57,77.21,0,1,1,2,73,6.4,Yes,Placed,5.81
+22CS015,Male,B.Sc CS,UG,AI & Data Science,79.66,64.26,72.85,1,0,4,2,89,5.2,Yes,Placed,6.29
+22CS016,Male,B.Sc CS,UG,Cloud & DevOps,80.17,78.36,76.97,0,3,4,2,73,3.7,Yes,Placed,4.94
+22CS017,Female,B.Sc CS,UG,Cloud & DevOps,62.8,73.36,72.7,0,0,4,2,86,5.4,No,Not Placed,
+22CS018,Male,M.Sc CS,PG,Full Stack,84.55,78.07,72.6,0,1,4,2,75,4.5,No,Not Placed,
+22CS019,Female,B.Sc CS,UG,Cyber Security,68.0,72.77,71.79,0,2,6,2,89,3.3,Yes,Placed,5.5
+22CS020,Female,MCA,PG,AI & Data Science,82.33,73.88,71.32,0,2,2,2,65,4.9,No,Placed,6.01
+22CS021,Female,M.Sc CS,PG,AI & Data Science,75.89,73.5,68.95,0,2,3,2,97,4.5,No,Placed,7.18
+22CS022,Male,B.Sc CS,UG,Full Stack,62.24,57.88,61.57,2,1,1,2,51,6.9,No,Not Placed,
+22CS023,Female,B.Sc CS,UG,AI & Data Science,72.84,59.8,64.67,2,3,4,2,50,7.0,No,Placed,6.17
+22CS024,Female,B.Sc CS,UG,Cyber Security,79.65,81.3,73.71,0,0,1,2,50,4.9,No,Not Placed,
+22CS025,Female,M.Sc CS,PG,Cloud & DevOps,82.13,72.25,68.13,1,3,2,2,96,5.8,No,Placed,7.09
+22CS026,Male,MCA,PG,AI & Data Science,74.59,70.96,65.14,0,2,2,2,72,3.1,No,Not Placed,
+22CS027,Male,B.Sc CS,UG,Full Stack,91.32,75.14,74.65,0,2,6,2,63,5.5,No,Not Placed,
+22CS028,Male,MCA,PG,AI & Data Science,86.08,72.13,73.46,0,1,3,2,85,6.9,No,Placed,6.92
+22CS029,Male,B.Sc CS,UG,Cloud & DevOps,73.43,71.85,72.04,2,0,1,2,76,7.6,Yes,Not Placed,
+22CS030,Female,MCA,PG,AI & Data Science,83.5,74.39,76.49,0,2,5,2,97,5.1,No,Placed,8.72
+22CS031,Female,MCA,PG,Full Stack,95.34,86.88,80.48,0,1,1,2,51,8.3,No,Placed,5.37
+22CS032,Female,M.Sc CS,PG,Full Stack,95.6,87.43,82.02,0,1,3,2,70,4.0,No,Not Placed,
+22CS033,Male,M.Sc CS,PG,Full Stack,63.72,69.18,70.72,1,2,4,2,59,4.1,No,Placed,5.9
+22CS034,Male,MCA,PG,Cyber Security,66.73,70.39,69.87,1,1,2,2,37,7.4,No,Not Placed,
+22CS035,Male,B.Sc CS,UG,Cyber Security,90.85,90.89,80.41,0,1,3,2,87,9.5,No,Placed,6.56
+22CS036,Male,B.Sc CS,UG,Full Stack,65.42,62.61,74.43,1,1,3,2,64,6.9,No,Placed,4.9
+22CS037,Male,B.Sc CS,UG,Cyber Security,62.77,66.63,66.17,1,0,3,2,72,6.1,No,Not Placed,
+22CS038,Male,BCA,UG,Cloud & DevOps,71.14,77.64,71.92,0,0,3,2,99,2.6,No,Placed,5.15
+22CS039,Male,M.Sc CS,PG,Full Stack,80.2,83.34,79.74,0,0,3,2,67,3.0,No,Placed,4.39
+22CS040,Female,M.Sc CS,PG,Full Stack,74.98,65.96,68.58,0,2,3,2,58,6.3,No,Placed,5.82
+22CS041,Male,MCA,PG,AI & Data Science,69.49,68.94,63.74,1,1,6,2,61,5.6,No,Not Placed,
+22CS042,Female,B.Sc CS,UG,Cyber Security,69.26,77.83,79.19,0,1,4,2,85,4.5,Yes,Placed,5.32
+22CS043,Female,M.Sc CS,PG,Full Stack,68.88,73.03,71.44,0,1,0,2,58,6.4,No,Placed,5.49
+22CS044,Male,B.Sc CS,UG,Full Stack,67.2,70.42,65.81,0,1,1,2,53,6.4,Yes,Placed,6.15
+22CS045,Female,B.Sc CS,UG,AI & Data Science,98.82,85.57,84.1,0,2,3,2,90,8.1,No,Placed,7.34
+22CS046,Female,M.Sc CS,PG,Cloud & DevOps,78.98,73.76,74.76,1,2,2,2,73,6.5,Yes,Placed,5.99
+22CS047,Male,MCA,PG,Full Stack,84.87,80.63,71.32,2,1,4,2,37,8.5,No,Placed,4.7
+22CS048,Male,M.Sc CS,PG,Cyber Security,71.11,70.15,77.2,0,2,3,2,53,6.2,No,Not Placed,
+22CS049,Female,B.Sc CS,UG,AI & Data Science,74.14,72.95,74.4,1,1,3,2,89,6.1,Yes,Placed,6.3
+22CS050,Male,M.Sc CS,PG,Cloud & DevOps,68.86,70.7,70.38,0,1,4,2,70,8.0,No,Placed,5.78
+22CS051,Male,B.Sc CS,UG,AI & Data Science,49.48,55.95,67.93,2,2,1,2,52,4.3,No,Not Placed,
+22CS052,Male,MCA,PG,AI & Data Science,62.22,69.49,70.33,1,1,4,2,62,10.0,No,Placed,6.32
+22CS053,Female,M.Sc CS,PG,Cloud & DevOps,57.89,79.98,75.87,1,1,0,2,69,7.0,Yes,Placed,5.46
+22CS054,Female,B.Sc CS,UG,Cloud & DevOps,53.5,52.23,56.7,0,0,3,2,65,6.5,No,Placed,4.66
+22CS055,Female,B.Sc CS,UG,AI & Data Science,64.05,69.38,71.95,2,1,4,2,47,7.1,No,Not Placed,
+22CS056,Female,B.Sc CS,UG,Full Stack,89.25,77.38,76.34,0,1,3,2,57,9.5,No,Placed,5.51
+22CS057,Male,MCA,PG,Cyber Security,75.56,77.07,74.3,0,2,4,2,72,7.7,Yes,Placed,5.96
+22CS058,Female,BCA,UG,Cloud & DevOps,88.91,81.55,73.77,2,1,2,2,66,3.7,No,Not Placed,
+22CS059,Male,M.Sc CS,PG,Full Stack,80.11,80.57,76.86,0,1,2,2,78,8.8,No,Placed,6.97
+22CS060,Male,M.Sc CS,PG,Full Stack,83.83,84.85,78.63,0,2,2,2,54,5.9,Yes,Placed,5.53
+22CS061,Female,BCA,UG,Cyber Security,66.99,70.28,64.84,1,1,3,2,66,6.4,No,Not Placed,
+22CS062,Male,B.Sc CS,UG,Cyber Security,81.24,83.19,72.03,0,2,5,2,81,4.3,Yes,Placed,5.32
+22CS063,Female,MCA,PG,Cyber Security,83.29,65.55,69.59,0,0,2,2,71,7.0,No,Placed,5.85
+22CS064,Female,B.Sc CS,UG,Full Stack,70.23,79.62,65.36,1,1,3,2,63,5.3,No,Not Placed,
+22CS065,Female,BCA,UG,AI & Data Science,81.6,79.3,76.4,0,1,1,2,68,6.6,Yes,Placed,5.85
+22CS066,Female,M.Sc CS,PG,Cloud & DevOps,81.66,83.13,75.97,0,2,3,2,57,6.0,No,Placed,6.57
+22CS067,Female,M.Sc CS,PG,Cloud & DevOps,70.5,64.59,71.99,0,0,4,2,65,9.4,No,Not Placed,
+22CS068,Male,MCA,PG,Cyber Security,64.77,63.54,64.15,0,2,1,2,78,9.4,No,Placed,6.6
+22CS069,Male,B.Sc CS,UG,AI & Data Science,64.16,68.48,71.72,0,1,1,2,64,6.2,No,Placed,5.61
+22CS070,Male,BCA,UG,AI & Data Science,76.87,74.58,71.16,0,1,4,2,53,6.4,No,Not Placed,
+22CS071,Male,BCA,UG,Cyber Security,79.27,77.53,74.97,0,1,1,2,61,5.7,Yes,Placed,4.35
+22CS072,Male,BCA,UG,AI & Data Science,68.07,75.7,76.37,1,0,3,2,72,8.2,No,Placed,6.19
+22CS073,Female,B.Sc CS,UG,Cloud & DevOps,76.27,64.81,65.04,4,1,4,2,56,5.5,No,Not Placed,
+22CS074,Male,B.Sc CS,UG,Full Stack,81.71,82.6,81.54,0,1,5,2,80,5.7,No,Placed,5.32
+22CS075,Male,B.Sc CS,UG,Cyber Security,82.18,77.64,70.61,1,1,0,2,72,8.0,Yes,Placed,5.49
+22CS076,Male,B.Sc CS,UG,Cloud & DevOps,91.52,81.63,78.16,1,2,5,2,83,5.5,Yes,Placed,5.55
+22CS077,Male,BCA,UG,Full Stack,88.77,73.28,75.66,1,1,3,2,89,6.2,No,Placed,5.83
+22CS078,Female,M.Sc CS,PG,Full Stack,65.99,71.41,73.49,0,0,2,2,81,3.5,Yes,Placed,4.86
+22CS079,Female,M.Sc CS,PG,Full Stack,92.84,70.42,77.92,0,0,1,2,57,7.4,Yes,Not Placed,
+22CS080,Female,BCA,UG,Full Stack,70.69,74.78,69.81,0,0,1,2,52,9.6,No,Placed,5.85
+22CS081,Female,BCA,UG,Full Stack,86.45,71.89,65.62,1,0,3,2,60,7.5,No,Not Placed,
+22CS082,Male,B.Sc CS,UG,Full Stack,76.68,74.86,68.94,0,1,2,2,57,8.8,Yes,Placed,5.37
+22CS083,Female,BCA,UG,Cloud & DevOps,71.88,71.29,73.42,0,0,3,2,51,4.8,Yes,Placed,4.09
+22CS084,Male,B.Sc CS,UG,Full Stack,57.92,70.57,72.34,0,2,5,2,60,6.6,No,Placed,5.39
+22CS085,Male,B.Sc CS,UG,AI & Data Science,74.28,72.29,71.78,1,0,3,2,59,4.6,No,Not Placed,
+22CS086,Male,BCA,UG,Full Stack,60.41,61.88,60.63,1,0,4,2,48,5.7,No,Not Placed,
+22CS087,Female,BCA,UG,Full Stack,85.67,76.78,77.14,0,2,3,2,65,7.6,Yes,Placed,5.45
+22CS088,Male,B.Sc CS,UG,AI & Data Science,91.17,89.42,76.75,0,1,2,2,86,6.8,Yes,Not Placed,
+22CS089,Male,BCA,UG,AI & Data Science,68.03,72.71,76.26,0,1,2,2,72,3.9,No,Placed,5.4
+22CS090,Female,BCA,UG,Cyber Security,79.02,73.78,83.7,0,3,5,2,100,4.0,No,Placed,6.32
+22CS091,Male,M.Sc CS,PG,Full Stack,68.75,68.93,70.83,0,3,3,2,68,3.8,No,Placed,5.17
+22CS092,Female,M.Sc CS,PG,Cloud & DevOps,69.72,62.28,67.7,1,2,1,2,59,6.9,No,Placed,5.52
+22CS093,Male,M.Sc CS,PG,AI & Data Science,83.74,80.56,74.36,0,0,4,2,68,9.9,No,Placed,6.44
+22CS094,Male,B.Sc CS,UG,AI & Data Science,75.61,64.49,59.45,1,1,3,2,60,8.4,No,Not Placed,
+22CS095,Male,M.Sc CS,PG,Cyber Security,93.4,87.83,78.29,0,3,5,2,77,3.3,No,Placed,5.88
+22CS096,Female,BCA,UG,Cloud & DevOps,71.18,72.24,66.97,2,2,4,2,91,8.7,Yes,Placed,7.19
+22CS097,Male,BCA,UG,AI & Data Science,85.99,92.59,77.76,0,0,2,2,58,8.2,No,Not Placed,
+22CS098,Male,M.Sc CS,PG,AI & Data Science,76.97,68.8,76.17,0,1,2,2,81,3.5,No,Placed,5.8
+22CS099,Male,BCA,UG,AI & Data Science,83.96,78.02,75.9,0,1,2,2,72,5.8,No,Placed,5.56
+22CS100,Female,BCA,UG,Full Stack,71.53,81.45,78.39,0,0,2,2,49,8.3,No,Placed,4.18
+22CS101,Female,M.Sc CS,PG,Full Stack,75.5,80.36,74.98,0,2,3,2,79,7.3,No,Placed,6.43
+22CS102,Female,MCA,PG,AI & Data Science,74.85,69.81,69.19,1,1,1,2,82,4.0,No,Not Placed,
+22CS103,Male,MCA,PG,AI & Data Science,67.64,70.81,74.34,0,1,3,2,56,7.3,Yes,Placed,5.55
+22CS104,Female,BCA,UG,Full Stack,82.62,77.85,74.58,1,0,1,2,68,2.7,No,Placed,3.91
+22CS105,Female,BCA,UG,Cloud & DevOps,82.5,79.3,77.7,0,1,2,2,46,6.0,No,Placed,3.74
+22CS106,Female,M.Sc CS,PG,Cyber Security,81.94,73.69,71.43,1,0,2,2,48,8.2,Yes,Not Placed,
+22CS107,Male,B.Sc CS,UG,Full Stack,91.37,82.17,75.93,1,1,4,2,84,6.5,No,Placed,5.55
+22CS108,Male,MCA,PG,AI & Data Science,90.49,73.54,66.5,1,0,2,2,55,5.4,No,Placed,4.98
+22CS109,Male,BCA,UG,AI & Data Science,72.25,72.87,63.81,1,2,1,2,44,7.8,No,Not Placed,
+22CS110,Female,B.Sc CS,UG,AI & Data Science,79.73,78.68,74.16,0,0,1,2,71,8.0,Yes,Placed,5.7
+22CS111,Male,B.Sc CS,UG,Cyber Security,69.76,69.54,69.95,0,1,2,2,57,8.4,No,Placed,5.0
+22CS112,Male,MCA,PG,Cloud & DevOps,76.23,65.61,62.22,1,0,1,2,52,7.6,Yes,Not Placed,
+22CS113,Male,B.Sc CS,UG,Cloud & DevOps,70.0,76.24,73.61,0,0,3,2,78,8.2,Yes,Placed,5.74
+22CS114,Female,B.Sc CS,UG,Cloud & DevOps,92.2,85.08,79.26,0,1,1,2,55,7.7,No,Placed,5.51
+22CS115,Male,B.Sc CS,UG,Cloud & DevOps,79.64,72.28,62.74,1,0,3,2,46,6.7,Yes,Not Placed,
+22CS116,Female,B.Sc CS,UG,Cloud & DevOps,73.82,71.49,67.23,2,0,2,2,65,6.4,Yes,Not Placed,
+22CS117,Female,B.Sc CS,UG,AI & Data Science,87.94,72.66,73.23,0,1,2,2,80,5.8,No,Placed,6.69
+22CS118,Female,M.Sc CS,PG,AI & Data Science,54.29,56.72,63.58,1,1,1,2,77,3.9,No,Not Placed,
+22CS119,Male,B.Sc CS,UG,Full Stack,55.86,60.22,59.52,3,0,2,2,47,4.4,No,Not Placed,
+22CS120,Female,MCA,PG,Full Stack,83.96,85.21,79.76,0,1,4,2,85,6.0,No,Placed,6.43
+22CS121,Female,MCA,PG,AI & Data Science,76.6,71.08,74.74,0,1,2,2,57,6.6,No,Not Placed,
+22CS122,Female,BCA,UG,Cloud & DevOps,78.5,79.03,78.53,0,1,4,2,96,8.8,No,Placed,6.96
+22CS123,Male,B.Sc CS,UG,Full Stack,62.74,64.0,66.02,0,1,3,2,46,6.0,No,Not Placed,
+22CS124,Male,M.Sc CS,PG,Full Stack,75.77,75.41,71.37,0,0,1,2,84,8.0,No,Placed,5.92
+22CS125,Male,B.Sc CS,UG,AI & Data Science,96.04,84.46,76.16,0,1,2,2,60,8.3,No,Not Placed,
+22CS126,Female,BCA,UG,AI & Data Science,84.24,83.45,79.94,0,1,5,2,100,6.1,Yes,Placed,7.18
+22CS127,Male,MCA,PG,AI & Data Science,77.7,72.25,72.13,1,3,4,2,74,7.3,No,Placed,7.06
+22CS128,Male,MCA,PG,Cloud & DevOps,71.61,63.29,68.49,2,3,2,2,49,5.7,No,Not Placed,
+22CS129,Male,M.Sc CS,PG,Full Stack,72.05,64.57,67.27,1,3,1,2,55,8.3,Yes,Not Placed,
+22CS130,Female,B.Sc CS,UG,Cyber Security,54.71,59.62,67.05,1,1,4,2,73,7.1,Yes,Placed,5.94
+22CS131,Male,M.Sc CS,PG,AI & Data Science,78.58,68.87,69.7,5,0,3,2,79,4.2,No,Not Placed,
+22CS132,Female,M.Sc CS,PG,Full Stack,84.45,81.07,79.78,1,1,3,2,71,6.7,No,Placed,5.37
+22CS133,Female,BCA,UG,Full Stack,60.24,63.02,69.29,0,0,2,2,65,8.9,Yes,Placed,5.37
+22CS134,Male,M.Sc CS,PG,Cyber Security,69.39,83.39,74.81,0,0,3,2,79,6.2,Yes,Placed,5.37
+22CS135,Female,B.Sc CS,UG,Cyber Security,64.43,58.45,55.84,1,0,1,2,56,6.7,No,Not Placed,
+22CS136,Male,B.Sc CS,UG,AI & Data Science,66.35,69.99,76.17,0,1,3,2,51,7.1,No,Not Placed,
+22CS137,Female,BCA,UG,Cloud & DevOps,76.53,68.4,70.07,0,1,1,2,53,4.4,No,Not Placed,
+22CS138,Female,B.Sc CS,UG,AI & Data Science,55.16,60.07,57.18,3,0,3,2,58,6.9,No,Not Placed,
+22CS139,Female,B.Sc CS,UG,Cloud & DevOps,82.14,78.34,72.15,0,2,2,2,83,4.0,Yes,Placed,6.56
+22CS140,Male,MCA,PG,AI & Data Science,83.54,65.79,70.56,0,1,2,2,88,5.1,Yes,Placed,6.6
+22CS141,Female,MCA,PG,AI & Data Science,73.49,74.1,71.34,0,2,1,2,76,8.1,No,Placed,8.58
+22CS142,Female,BCA,UG,Cloud & DevOps,51.19,70.83,68.45,1,0,2,2,67,6.8,No,Not Placed,
+22CS143,Female,MCA,PG,AI & Data Science,66.04,66.27,73.37,1,1,3,2,78,5.6,No,Placed,6.26
+22CS144,Female,MCA,PG,Full Stack,88.33,82.38,73.24,0,0,3,2,58,7.2,No,Placed,4.63
+22CS145,Male,B.Sc CS,UG,Full Stack,48.22,64.46,63.48,1,1,4,2,57,6.0,No,Not Placed,
+22CS146,Male,BCA,UG,AI & Data Science,72.52,71.4,71.69,2,0,2,2,54,6.2,No,Not Placed,
+22CS147,Male,BCA,UG,Cyber Security,64.2,64.57,68.31,3,0,4,2,46,7.2,No,Not Placed,
+22CS148,Female,B.Sc CS,UG,Cloud & DevOps,84.05,66.34,69.79,2,1,2,2,69,4.9,No,Placed,5.35
+22CS149,Male,M.Sc CS,PG,Cloud & DevOps,69.25,73.95,76.01,1,1,2,2,72,6.3,No,Placed,6.05
+22CS150,Male,BCA,UG,Full Stack,80.04,75.81,74.28,0,0,1,2,77,5.8,No,Not Placed,
+22CS151,Female,BCA,UG,Full Stack,81.65,71.84,73.06,0,2,4,2,74,3.5,No,Not Placed,
+22CS152,Female,B.Sc CS,UG,AI & Data Science,94.36,84.98,77.95,0,0,2,2,74,4.9,No,Placed,5.27
+22CS153,Male,B.Sc CS,UG,AI & Data Science,73.97,69.93,70.21,1,1,2,2,72,8.9,Yes,Placed,6.37
+22CS154,Female,MCA,PG,AI & Data Science,79.76,73.41,72.48,0,1,4,2,66,6.9,Yes,Placed,6.35
+22CS155,Male,B.Sc CS,UG,Cloud & DevOps,61.15,69.31,70.44,0,1,3,2,71,3.9,No,Placed,5.39
+22CS156,Female,B.Sc CS,UG,Cloud & DevOps,87.9,73.52,75.2,0,1,0,2,58,3.7,No,Placed,4.21
+22CS157,Male,B.Sc CS,UG,Cyber Security,68.39,75.67,75.62,2,0,0,2,74,6.1,No,Placed,6.03
+22CS158,Female,BCA,UG,Full Stack,70.39,63.57,66.32,1,2,3,2,71,8.7,No,Placed,6.35
+22CS159,Female,BCA,UG,Full Stack,75.78,70.5,67.06,1,0,2,2,53,5.9,Yes,Not Placed,
+22CS160,Female,BCA,UG,Full Stack,60.37,75.99,73.86,0,0,2,2,68,8.5,No,Placed,5.56
+22CS161,Male,B.Sc CS,UG,Full Stack,78.29,81.55,76.82,0,1,3,2,61,7.0,No,Placed,5.78
+22CS162,Female,B.Sc CS,UG,Full Stack,85.67,80.05,76.8,0,2,2,2,62,7.2,No,Placed,6.41
+22CS163,Male,MCA,PG,AI & Data Science,78.93,70.73,79.27,0,2,3,2,56,3.9,No,Placed,5.8
+22CS164,Male,M.Sc CS,PG,AI & Data Science,60.11,62.6,63.47,2,2,3,2,77,7.6,Yes,Placed,6.96
+22CS165,Female,M.Sc CS,PG,Cloud & DevOps,74.76,73.91,74.04,0,1,4,2,82,5.7,No,Placed,5.77
+22CS166,Male,M.Sc CS,PG,Full Stack,83.42,78.48,79.36,0,2,4,2,79,7.8,No,Placed,6.68
+22CS167,Female,M.Sc CS,PG,Cloud & DevOps,57.22,63.38,66.42,1,1,4,2,89,4.7,No,Placed,6.72
+22CS168,Female,B.Sc CS,UG,AI & Data Science,65.25,68.12,78.22,0,2,1,2,68,6.5,No,Placed,6.15
+22CS169,Male,BCA,UG,Full Stack,84.77,77.86,73.21,0,1,4,2,100,7.0,No,Placed,6.64
+22CS170,Female,BCA,UG,AI & Data Science,78.7,67.9,70.04,1,1,4,2,61,5.9,No,Not Placed,
+22CS171,Male,B.Sc CS,UG,AI & Data Science,80.12,73.68,69.01,1,1,4,2,67,7.0,No,Placed,5.68
+22CS172,Female,MCA,PG,AI & Data Science,94.59,89.37,80.21,0,1,2,2,67,6.1,No,Placed,5.87
+22CS173,Male,BCA,UG,AI & Data Science,80.69,69.39,70.63,1,0,3,2,70,5.1,No,Placed,5.21
+22CS174,Female,M.Sc CS,PG,Cloud & DevOps,82.58,76.79,77.46,2,1,3,2,82,9.1,Yes,Placed,7.44
+22CS175,Male,MCA,PG,Full Stack,99.0,82.42,78.73,0,1,4,2,69,8.2,Yes,Placed,5.8
+22CS176,Male,BCA,UG,Full Stack,73.86,73.63,77.21,1,2,4,2,95,5.0,Yes,Placed,6.16
+22CS177,Male,MCA,PG,Full Stack,68.02,67.71,68.25,0,1,2,2,67,7.1,Yes,Placed,5.33
+22CS178,Female,BCA,UG,Full Stack,80.28,84.53,77.39,1,2,2,2,74,5.2,No,Placed,5.62
+22CS179,Female,MCA,PG,Full Stack,80.39,79.35,86.43,0,1,1,2,64,4.4,No,Placed,5.44
+22CS180,Female,B.Sc CS,UG,AI & Data Science,70.73,64.22,68.11,0,2,2,2,69,7.8,Yes,Placed,7.12
+22CS181,Female,BCA,UG,Cloud & DevOps,65.68,72.15,68.41,2,0,4,2,61,3.3,No,Not Placed,
+22CS182,Female,BCA,UG,Cyber Security,99.0,82.67,74.82,1,2,4,2,60,8.0,No,Placed,5.61
+22CS183,Female,B.Sc CS,UG,Cyber Security,79.27,72.88,67.96,0,1,1,2,52,5.8,No,Not Placed,
+22CS184,Male,BCA,UG,Full Stack,68.68,71.87,74.87,0,1,4,2,100,5.9,Yes,Placed,6.43
+22CS185,Female,MCA,PG,AI & Data Science,85.16,76.58,72.49,1,1,2,2,63,7.0,No,Placed,6.06
+22CS186,Female,M.Sc CS,PG,Cloud & DevOps,74.91,78.42,75.56,0,1,2,2,48,7.4,Yes,Placed,4.86
+22CS187,Male,B.Sc CS,UG,Full Stack,73.47,68.63,68.92,0,1,2,2,54,4.8,No,Placed,4.21
+22CS188,Male,B.Sc CS,UG,AI & Data Science,81.62,73.95,75.3,1,2,0,2,68,7.5,Yes,Placed,6.37
+22CS189,Female,B.Sc CS,UG,Full Stack,63.08,63.55,62.74,2,2,4,2,67,6.3,No,Not Placed,
+22CS190,Male,B.Sc CS,UG,Cyber Security,79.53,73.09,67.55,1,1,5,2,70,4.1,No,Not Placed,
+22CS191,Female,MCA,PG,Cyber Security,95.13,90.66,83.29,0,1,3,2,84,6.3,Yes,Placed,6.9
+22CS192,Male,BCA,UG,Cyber Security,80.66,80.16,78.5,0,1,3,2,62,8.8,Yes,Placed,7.25
+22CS193,Male,B.Sc CS,UG,Cyber Security,72.24,81.36,78.15,0,2,3,2,75,9.3,No,Placed,6.03
+22CS194,Female,BCA,UG,AI & Data Science,70.93,83.66,74.96,0,2,2,2,56,7.7,No,Placed,5.51
+22CS195,Male,B.Sc CS,UG,Cloud & DevOps,71.9,66.38,70.54,2,1,1,2,56,4.1,No,Not Placed,
+22CS196,Male,B.Sc CS,UG,Full Stack,73.46,73.18,68.93,0,3,2,2,51,7.1,Yes,Placed,5.12
+22CS197,Female,M.Sc CS,PG,Cyber Security,72.22,65.77,65.38,1,1,0,2,44,7.6,Yes,Placed,5.08
+22CS198,Female,M.Sc CS,PG,AI & Data Science,85.16,75.04,69.25,0,2,2,2,79,7.5,No,Placed,7.22
+22CS199,Male,MCA,PG,Cloud & DevOps,58.67,61.26,69.96,1,3,3,2,74,7.4,No,Placed,6.54
+22CS200,Male,M.Sc CS,PG,AI & Data Science,84.62,73.23,74.47,0,2,3,2,82,6.9,Yes,Not Placed,
+22CS201,Female,BCA,UG,AI & Data Science,72.2,66.43,70.28,0,0,2,2,65,6.0,No,Not Placed,
+22CS202,Female,M.Sc CS,PG,Full Stack,79.77,75.49,78.29,0,1,1,2,82,5.3,No,Placed,5.68
+22CS203,Female,MCA,PG,AI & Data Science,64.73,61.43,76.11,0,0,1,2,44,2.8,Yes,Not Placed,
+22CS204,Male,M.Sc CS,PG,AI & Data Science,89.29,86.05,72.8,1,2,4,2,79,7.1,No,Placed,6.6
+22CS205,Male,MCA,PG,Cyber Security,88.46,76.1,70.7,0,1,2,2,68,6.6,Yes,Placed,5.21
+22CS206,Male,M.Sc CS,PG,Full Stack,85.6,94.65,82.32,0,2,3,2,83,7.6,No,Placed,6.34
+22CS207,Male,MCA,PG,Cloud & DevOps,60.85,63.43,62.66,0,2,5,2,64,3.8,No,Placed,5.28
+22CS208,Female,B.Sc CS,UG,Full Stack,84.29,79.15,71.18,1,0,1,2,52,7.5,No,Not Placed,
+22CS209,Male,M.Sc CS,PG,Cyber Security,80.05,69.43,68.46,1,1,4,2,42,9.7,Yes,Placed,5.33
+22CS210,Female,BCA,UG,Full Stack,59.95,74.58,67.88,0,1,2,2,53,6.4,No,Not Placed,
+22CS211,Female,BCA,UG,Cyber Security,75.76,80.11,77.41,0,1,3,2,78,6.3,No,Placed,5.15
+22CS212,Female,M.Sc CS,PG,Full Stack,79.65,77.81,74.89,0,0,5,2,78,6.9,No,Placed,5.88
+22CS213,Male,MCA,PG,Full Stack,81.56,69.99,71.92,0,0,2,2,47,9.7,No,Not Placed,
+22CS214,Female,MCA,PG,Cloud & DevOps,77.77,76.31,75.82,1,1,3,2,55,4.6,Yes,Not Placed,
+22CS215,Female,B.Sc CS,UG,Full Stack,78.91,69.75,72.26,0,1,2,2,56,6.5,No,Placed,4.27
+22CS216,Female,M.Sc CS,PG,AI & Data Science,90.74,90.2,80.63,0,1,2,2,67,5.2,No,Placed,6.05
+22CS217,Male,M.Sc CS,PG,Cyber Security,88.26,85.31,87.67,0,0,4,2,59,5.6,No,Placed,4.38
+22CS218,Male,B.Sc CS,UG,Cloud & DevOps,47.33,58.95,64.31,3,1,4,2,40,5.9,Yes,Placed,4.28
+22CS219,Female,B.Sc CS,UG,AI & Data Science,72.83,59.3,56.13,2,1,2,2,43,8.3,No,Placed,7.75
+22CS220,Male,B.Sc CS,UG,Full Stack,74.35,67.98,64.78,0,1,3,2,62,9.2,No,Placed,5.06
+22CS221,Male,M.Sc CS,PG,Cloud & DevOps,58.48,68.28,62.0,0,2,3,2,42,6.9,No,Not Placed,
+22CS222,Female,BCA,UG,Cyber Security,76.94,81.27,76.83,1,1,2,2,68,5.8,No,Not Placed,
+22CS223,Female,MCA,PG,Cloud & DevOps,88.49,87.06,79.75,0,1,2,2,87,10.0,No,Placed,7.12
+22CS224,Female,BCA,UG,Full Stack,65.13,59.63,61.9,2,2,1,2,40,5.3,Yes,Not Placed,
+22CS225,Male,MCA,PG,Cyber Security,79.36,77.68,82.65,0,1,4,2,71,5.4,No,Placed,5.37
+22CS226,Female,BCA,UG,Full Stack,66.84,74.65,74.98,1,1,5,2,83,3.3,No,Not Placed,
+22CS227,Male,M.Sc CS,PG,Cloud & DevOps,69.28,61.55,67.83,1,0,2,2,57,8.4,No,Not Placed,
+22CS228,Female,B.Sc CS,UG,Full Stack,90.77,82.28,73.65,1,0,3,2,59,8.1,Yes,Placed,4.49
+22CS229,Female,BCA,UG,Cyber Security,70.57,72.69,67.62,0,0,3,2,79,10.0,No,Placed,6.55
+22CS230,Male,MCA,PG,Full Stack,80.62,75.12,73.22,0,2,4,2,63,3.9,No,Not Placed,
+22CS231,Male,MCA,PG,Full Stack,57.29,53.91,61.04,0,2,6,2,73,8.4,Yes,Placed,6.07
+22CS232,Male,MCA,PG,Cyber Security,94.62,82.68,70.19,0,0,1,2,71,6.6,No,Placed,6.06
+22CS233,Female,B.Sc CS,UG,Full Stack,82.03,75.75,72.73,1,0,2,2,62,7.7,No,Not Placed,
+22CS234,Female,BCA,UG,Cloud & DevOps,74.18,72.4,71.49,0,1,2,2,72,3.4,Yes,Placed,5.6
+22CS235,Female,B.Sc CS,UG,Full Stack,81.76,74.32,71.73,1,1,3,2,70,8.8,No,Placed,6.21
+22CS236,Female,B.Sc CS,UG,Cyber Security,61.9,64.05,63.18,2,1,3,2,74,7.4,No,Not Placed,
+22CS237,Male,M.Sc CS,PG,Full Stack,87.83,80.49,74.14,1,2,4,2,60,6.3,No,Not Placed,
+22CS238,Female,M.Sc CS,PG,Full Stack,72.76,74.81,72.18,3,2,4,2,67,7.4,No,Placed,5.94
+22CS239,Male,M.Sc CS,PG,Full Stack,73.96,71.43,71.22,1,1,0,2,65,4.9,No,Not Placed,
+22CS240,Male,MCA,PG,AI & Data Science,71.08,69.28,71.99,1,1,3,2,76,5.2,Yes,Not Placed,
+22CS241,Female,M.Sc CS,PG,AI & Data Science,70.19,71.51,75.23,1,1,3,2,54,5.4,No,Placed,5.3
+22CS242,Female,MCA,PG,Cyber Security,82.95,67.65,67.41,0,1,3,2,77,3.0,No,Placed,4.98
+22CS243,Male,B.Sc CS,UG,Cyber Security,78.56,78.18,73.09,0,2,1,2,73,7.8,No,Not Placed,
+22CS244,Female,B.Sc CS,UG,Cyber Security,82.52,77.78,76.42,0,0,2,2,51,8.4,No,Placed,5.11
+22CS245,Female,M.Sc CS,PG,AI & Data Science,75.91,74.37,75.06,0,2,3,2,85,5.1,Yes,Not Placed,
+22CS246,Female,MCA,PG,Full Stack,81.13,82.21,75.59,0,2,5,2,100,7.0,No,Placed,7.03
+22CS247,Female,B.Sc CS,UG,AI & Data Science,71.81,61.35,67.97,1,2,4,2,77,5.6,Yes,Placed,6.01
+22CS248,Male,BCA,UG,Cyber Security,98.3,75.8,77.4,0,1,4,2,90,6.9,Yes,Placed,5.92
+22CS249,Male,M.Sc CS,PG,Cloud & DevOps,60.32,67.05,73.4,0,1,3,2,68,5.1,No,Not Placed,
+22CS250,Male,B.Sc CS,UG,AI & Data Science,88.61,81.1,83.77,0,2,2,2,52,4.9,No,Not Placed,
+22CS251,Female,BCA,UG,Cyber Security,89.68,82.64,74.12,1,2,3,2,42,8.2,No,Placed,5.44
+22CS252,Female,MCA,PG,AI & Data Science,67.48,67.02,68.27,0,1,1,2,67,6.0,No,Placed,5.84
+22CS253,Male,M.Sc CS,PG,AI & Data Science,98.29,90.05,82.07,0,2,1,2,65,10.0,No,Placed,7.26
+22CS254,Male,B.Sc CS,UG,AI & Data Science,85.95,84.71,78.43,0,1,2,2,58,6.6,No,Placed,4.91
+22CS255,Male,MCA,PG,AI & Data Science,85.71,82.15,74.7,0,1,2,2,67,4.9,No,Placed,5.86
+22CS256,Female,B.Sc CS,UG,Cyber Security,76.28,72.95,65.83,1,2,2,2,70,8.3,No,Not Placed,
+22CS257,Female,MCA,PG,Cloud & DevOps,73.83,61.62,65.34,0,1,3,2,41,7.1,No,Not Placed,
+22CS258,Male,B.Sc CS,UG,AI & Data Science,73.91,77.2,71.25,1,1,2,2,59,7.6,No,Not Placed,
+22CS259,Male,BCA,UG,Full Stack,79.91,82.95,78.11,2,3,5,2,92,8.5,Yes,Placed,6.97
+22CS260,Female,BCA,UG,Cyber Security,90.01,85.39,76.06,0,2,2,2,54,5.4,Yes,Placed,4.22
+22CS261,Male,B.Sc CS,UG,Cloud & DevOps,77.81,70.45,65.87,0,2,4,2,74,6.0,No,Not Placed,
+22CS262,Female,MCA,PG,Full Stack,66.89,72.83,72.63,1,1,4,2,60,6.0,No,Placed,5.1
+22CS263,Male,B.Sc CS,UG,AI & Data Science,84.24,83.38,78.63,0,3,2,2,79,4.3,No,Placed,6.17
+22CS264,Male,B.Sc CS,UG,Cyber Security,85.21,87.68,82.93,0,0,3,2,90,6.1,Yes,Placed,5.36
+22CS265,Female,B.Sc CS,UG,Full Stack,82.55,73.07,80.59,0,1,2,2,83,8.5,No,Placed,5.83
+22CS266,Male,M.Sc CS,PG,Cloud & DevOps,83.45,77.08,75.36,1,1,3,2,81,6.7,No,Not Placed,
+22CS267,Male,MCA,PG,Full Stack,73.29,76.75,75.99,0,2,1,2,53,4.0,No,Placed,5.38
+22CS268,Male,MCA,PG,Cyber Security,66.71,69.4,65.33,1,2,3,2,77,3.5,No,Not Placed,
+22CS269,Male,B.Sc CS,UG,AI & Data Science,67.32,63.39,60.89,1,2,3,2,46,8.9,No,Not Placed,
+22CS270,Male,BCA,UG,Full Stack,59.65,67.44,74.8,1,1,2,2,72,6.0,No,Placed,5.22
+22CS271,Male,B.Sc CS,UG,Cloud & DevOps,78.37,78.63,71.48,0,1,3,2,69,5.3,Yes,Not Placed,
+22CS272,Male,BCA,UG,Full Stack,75.17,74.22,68.35,0,1,3,2,70,5.8,No,Placed,5.36
+22CS273,Male,MCA,PG,Full Stack,71.6,72.97,71.62,0,1,3,2,70,3.7,Yes,Placed,5.13
+22CS274,Female,M.Sc CS,PG,Cloud & DevOps,46.44,56.55,61.57,1,0,1,2,46,8.4,No,Not Placed,
+22CS275,Female,BCA,UG,Cloud & DevOps,63.53,75.32,69.58,0,1,3,2,45,5.6,No,Not Placed,
+22CS276,Male,BCA,UG,Full Stack,87.21,75.5,72.08,1,2,2,2,78,8.6,No,Placed,6.03
+22CS277,Male,MCA,PG,Full Stack,69.35,67.37,73.34,0,2,1,2,70,6.2,Yes,Placed,5.47
+22CS278,Female,BCA,UG,Full Stack,79.61,76.24,70.52,0,2,4,2,81,8.8,No,Placed,6.37
+22CS279,Female,B.Sc CS,UG,Cyber Security,62.09,71.3,65.2,1,1,1,2,60,6.7,Yes,Placed,4.96
+22CS280,Female,BCA,UG,Full Stack,90.39,74.03,76.19,1,1,0,2,49,7.7,No,Not Placed,
+22CS281,Male,B.Sc CS,UG,AI & Data Science,74.56,66.33,69.77,1,0,0,2,78,7.3,No,Not Placed,
+22CS282,Male,B.Sc CS,UG,Cloud & DevOps,78.9,64.79,64.39,1,1,2,2,55,7.2,No,Not Placed,
+22CS283,Male,B.Sc CS,UG,Cloud & DevOps,99.0,87.03,73.89,0,1,2,2,72,7.1,No,Placed,5.41
+22CS284,Male,BCA,UG,Cloud & DevOps,91.16,76.5,70.92,0,1,2,2,56,5.9,No,Placed,4.28
+22CS285,Female,M.Sc CS,PG,Cloud & DevOps,72.93,70.44,70.04,0,0,1,2,88,9.5,No,Placed,6.38
+22CS286,Male,B.Sc CS,UG,Cyber Security,70.07,74.51,77.37,0,2,2,2,58,4.7,No,Not Placed,
+22CS287,Male,BCA,UG,Cyber Security,72.74,68.95,65.22,1,1,3,2,56,6.2,No,Placed,4.24
+22CS288,Male,MCA,PG,Cyber Security,81.1,78.25,74.61,0,1,2,2,69,6.4,Yes,Placed,5.9
+22CS289,Female,M.Sc CS,PG,Full Stack,74.95,72.0,73.9,0,1,1,2,52,6.9,No,Placed,4.85
+22CS290,Male,BCA,UG,Full Stack,72.05,75.66,63.87,1,1,3,2,65,5.6,Yes,Not Placed,
+22CS291,Female,B.Sc CS,UG,AI & Data Science,90.67,84.84,83.04,0,1,6,2,97,7.0,No,Placed,6.63
+22CS292,Male,MCA,PG,Cyber Security,74.86,69.84,65.17,1,1,3,2,54,5.9,Yes,Placed,4.71
+22CS293,Female,B.Sc CS,UG,AI & Data Science,99.0,85.94,80.89,0,1,4,2,78,3.8,Yes,Placed,5.73
+22CS294,Male,B.Sc CS,UG,AI & Data Science,76.91,80.34,77.19,0,0,2,2,31,6.4,No,Not Placed,
+22CS295,Female,MCA,PG,Full Stack,93.85,86.14,84.02,0,2,4,2,74,4.7,Yes,Placed,5.77
+22CS296,Female,BCA,UG,Full Stack,79.57,68.62,71.38,0,0,3,2,61,3.2,No,Not Placed,
+22CS297,Female,M.Sc CS,PG,AI & Data Science,85.63,83.04,68.31,0,1,0,2,52,6.7,No,Not Placed,
+22CS298,Female,BCA,UG,Cyber Security,68.75,64.36,63.48,1,0,4,2,75,6.9,Yes,Placed,5.5
+22CS299,Female,M.Sc CS,PG,Cloud & DevOps,67.46,77.13,74.83,0,1,5,2,64,7.2,Yes,Placed,5.06
+22CS300,Female,B.Sc CS,UG,AI & Data Science,80.6,82.26,76.58,0,1,2,2,67,7.4,No,Placed,5.97
+22CS301,Female,B.Sc CS,UG,AI & Data Science,85.89,81.2,78.63,0,2,2,2,66,3.1,Yes,Placed,5.96
+22CS302,Male,B.Sc CS,UG,Full Stack,76.4,75.27,76.32,0,1,3,2,42,4.0,Yes,Not Placed,
+22CS303,Female,B.Sc CS,UG,Cyber Security,63.14,66.0,70.03,1,1,1,2,49,9.5,Yes,Placed,5.13
+22CS304,Female,MCA,PG,Cloud & DevOps,62.4,70.38,69.37,0,1,3,2,77,4.4,No,Not Placed,
+22CS305,Female,B.Sc CS,UG,AI & Data Science,61.73,64.35,59.22,1,0,2,2,27,7.1,No,Placed,3.73
+22CS306,Male,BCA,UG,Cyber Security,58.32,65.75,65.63,0,1,0,2,50,4.9,Yes,Not Placed,
+22CS307,Male,M.Sc CS,PG,AI & Data Science,77.09,79.51,77.37,0,1,3,2,64,6.5,No,Placed,6.08
+22CS308,Female,M.Sc CS,PG,Full Stack,87.25,77.35,70.05,2,1,3,2,89,5.3,No,Placed,5.83
+22CS309,Male,BCA,UG,Cloud & DevOps,75.87,70.8,73.0,1,3,4,2,78,7.2,Yes,Placed,6.54
+22CS310,Male,BCA,UG,AI & Data Science,53.4,55.32,64.82,1,2,4,2,53,6.1,No,Placed,6.54
+22CS311,Male,MCA,PG,AI & Data Science,74.09,67.4,68.95,1,3,4,2,82,5.4,No,Placed,6.95
+22CS312,Male,M.Sc CS,PG,Full Stack,74.37,63.43,53.8,2,0,2,2,42,4.3,No,Not Placed,
+22CS313,Male,MCA,PG,Full Stack,96.96,89.67,76.69,1,2,2,2,84,7.0,No,Not Placed,
+22CS314,Male,MCA,PG,Cloud & DevOps,61.43,75.95,81.12,0,1,1,2,54,4.3,No,Not Placed,
+22CS315,Male,M.Sc CS,PG,Cloud & DevOps,72.09,79.75,73.66,1,1,2,2,82,7.1,Yes,Placed,6.12
+22CS316,Male,B.Sc CS,UG,AI & Data Science,93.06,74.8,64.94,2,3,1,2,55,10.0,No,Not Placed,
+22CS317,Male,BCA,UG,AI & Data Science,80.5,80.59,81.29,0,2,2,2,59,8.7,No,Placed,5.98
+22CS318,Female,B.Sc CS,UG,Cyber Security,81.63,84.98,79.04,0,2,1,2,68,7.7,No,Placed,5.98
+22CS319,Male,M.Sc CS,PG,AI & Data Science,77.15,72.36,75.84,0,2,3,2,73,6.1,Yes,Placed,6.42
+22CS320,Female,MCA,PG,Cloud & DevOps,79.3,76.56,75.05,0,0,4,2,61,3.0,No,Not Placed,
+22CS321,Female,BCA,UG,Cyber Security,83.78,67.63,70.41,0,2,4,2,73,3.9,Yes,Placed,4.92
+22CS322,Female,BCA,UG,AI & Data Science,67.91,71.19,72.16,0,1,5,2,58,8.4,No,Placed,5.45
+22CS323,Male,B.Sc CS,UG,Cloud & DevOps,84.78,73.29,74.76,1,2,4,2,77,4.9,No,Not Placed,
+22CS324,Female,MCA,PG,AI & Data Science,62.27,67.73,77.75,0,2,4,2,77,5.0,No,Placed,6.35
+22CS325,Female,B.Sc CS,UG,Full Stack,79.28,67.58,72.43,1,0,3,2,65,5.9,Yes,Placed,4.78
+22CS326,Female,B.Sc CS,UG,Full Stack,77.79,78.11,68.55,0,0,4,2,57,4.6,No,Not Placed,
+22CS327,Female,B.Sc CS,UG,Full Stack,69.84,76.34,75.59,0,0,3,2,71,4.2,Yes,Placed,4.17
+22CS328,Female,B.Sc CS,UG,Cyber Security,75.77,69.85,74.47,0,1,4,2,76,6.1,Yes,Placed,5.26
+22CS329,Female,BCA,UG,Cyber Security,69.77,64.64,71.59,1,0,4,2,95,4.6,No,Placed,5.92
+22CS330,Male,BCA,UG,Cloud & DevOps,65.28,56.66,60.29,1,1,3,2,70,4.7,No,Not Placed,
+22CS331,Female,B.Sc CS,UG,Cloud & DevOps,72.46,70.82,75.15,1,1,2,2,82,4.9,No,Not Placed,
+22CS332,Male,B.Sc CS,UG,Full Stack,64.96,64.99,70.7,0,2,5,2,100,7.0,No,Placed,6.84
+22CS333,Female,B.Sc CS,UG,AI & Data Science,79.23,67.6,78.85,0,1,4,2,78,5.8,Yes,Placed,6.12
+22CS334,Female,BCA,UG,Cyber Security,64.5,70.32,67.19,2,1,5,2,69,5.9,Yes,Not Placed,
+22CS335,Male,B.Sc CS,UG,Cloud & DevOps,83.12,75.69,71.38,0,0,3,2,75,7.3,No,Placed,5.37
+22CS336,Female,M.Sc CS,PG,Full Stack,64.19,61.89,63.91,0,2,1,2,46,5.8,No,Not Placed,
+22CS337,Male,B.Sc CS,UG,Full Stack,70.34,68.09,66.89,0,0,2,2,56,5.7,No,Not Placed,
+22CS338,Female,B.Sc CS,UG,Full Stack,69.75,76.55,70.37,0,0,2,2,58,7.1,Yes,Placed,4.27
+22CS339,Male,BCA,UG,AI & Data Science,89.25,84.74,67.8,1,0,3,2,72,7.6,No,Not Placed,
+22CS340,Female,BCA,UG,Cyber Security,79.3,75.31,71.45,1,2,4,2,63,6.1,No,Not Placed,
+22CS341,Male,B.Sc CS,UG,Full Stack,73.88,76.38,75.3,0,0,5,2,70,6.5,Yes,Placed,4.59
+22CS342,Female,B.Sc CS,UG,Cyber Security,80.99,70.67,68.43,0,1,3,2,79,4.9,Yes,Placed,5.49
+22CS343,Female,MCA,PG,Cloud & DevOps,54.93,62.79,73.41,0,2,2,2,79,4.6,No,Placed,5.87
+22CS344,Female,B.Sc CS,UG,Cloud & DevOps,75.57,74.76,72.91,3,2,2,2,64,7.6,No,Placed,5.51
+22CS345,Female,BCA,UG,Full Stack,95.98,82.65,82.75,0,1,4,2,65,7.2,No,Placed,4.72
+22CS346,Female,BCA,UG,Full Stack,77.32,77.28,75.41,0,0,4,2,84,7.1,No,Placed,6.72
+22CS347,Female,B.Sc CS,UG,Cyber Security,76.68,70.36,73.52,1,1,5,2,78,6.7,No,Placed,5.33
+22CS348,Male,BCA,UG,Cyber Security,81.48,79.97,77.1,0,0,4,2,47,6.5,Yes,Placed,5.11
+22CS349,Female,M.Sc CS,PG,Full Stack,84.96,82.11,82.74,0,2,4,2,70,7.6,No,Placed,5.77
+22CS350,Male,MCA,PG,Cloud & DevOps,56.03,47.46,56.7,0,1,2,2,57,7.3,Yes,Placed,4.99
+22CS351,Female,B.Sc CS,UG,AI & Data Science,59.18,71.37,72.81,0,1,2,2,78,7.8,No,Placed,6.0
+22CS352,Male,B.Sc CS,UG,Cloud & DevOps,78.1,58.9,64.8,3,0,3,2,73,5.8,Yes,Placed,4.97
+22CS353,Female,B.Sc CS,UG,AI & Data Science,68.85,66.94,67.01,1,1,2,2,66,8.5,No,Not Placed,
+22CS354,Female,BCA,UG,AI & Data Science,89.12,86.95,81.79,0,0,4,2,82,6.9,No,Placed,5.8
+22CS355,Male,M.Sc CS,PG,Full Stack,72.85,70.75,79.39,0,2,2,2,72,7.3,No,Placed,5.79
+22CS356,Female,B.Sc CS,UG,AI & Data Science,56.65,55.64,60.3,0,0,2,2,48,6.4,No,Placed,4.87
+22CS357,Female,B.Sc CS,UG,AI & Data Science,63.32,61.32,66.47,1,3,2,2,58,6.4,No,Placed,6.14
+22CS358,Female,MCA,PG,AI & Data Science,48.5,64.62,71.8,0,2,3,2,66,4.8,No,Placed,6.83
+22CS359,Female,B.Sc CS,UG,Full Stack,73.66,62.54,70.08,1,0,2,2,64,7.2,No,Not Placed,
+22CS360,Female,BCA,UG,Cyber Security,74.12,79.26,75.6,1,0,4,2,42,10.0,No,Placed,4.6
+22CS361,Female,M.Sc CS,PG,AI & Data Science,71.76,71.57,61.41,3,1,3,2,52,5.6,No,Not Placed,
+22CS362,Male,B.Sc CS,UG,Cyber Security,86.79,73.69,74.28,1,0,4,2,68,6.4,No,Not Placed,
+22CS363,Male,B.Sc CS,UG,Cloud & DevOps,87.99,77.64,65.71,0,0,1,2,57,5.6,No,Not Placed,
+22CS364,Male,B.Sc CS,UG,AI & Data Science,74.3,67.77,74.54,0,2,3,2,64,5.3,No,Placed,5.73
+22CS365,Female,MCA,PG,AI & Data Science,54.65,67.14,68.96,1,1,4,2,71,8.8,No,Placed,7.09
+22CS366,Male,B.Sc CS,UG,Cloud & DevOps,82.17,81.55,80.93,0,0,2,2,58,5.3,No,Not Placed,
+22CS367,Female,B.Sc CS,UG,Cloud & DevOps,81.55,67.97,65.17,0,1,1,2,38,5.4,Yes,Not Placed,
+22CS368,Female,B.Sc CS,UG,Full Stack,79.09,73.72,66.02,1,0,2,2,57,3.6,Yes,Placed,4.12
+22CS369,Male,B.Sc CS,UG,Cyber Security,85.81,74.94,74.01,0,3,4,2,78,5.0,No,Not Placed,
+22CS370,Female,M.Sc CS,PG,AI & Data Science,64.35,74.78,72.73,2,0,4,2,90,3.4,Yes,Not Placed,
+22CS371,Female,B.Sc CS,UG,Full Stack,96.09,77.96,72.81,0,2,4,2,78,7.4,No,Placed,5.82
+22CS372,Male,BCA,UG,Cyber Security,66.41,77.59,74.89,0,2,1,2,48,10.0,No,Placed,5.22
+22CS373,Male,BCA,UG,AI & Data Science,83.49,78.14,85.95,0,0,3,2,73,5.7,Yes,Placed,6.3
+22CS374,Male,MCA,PG,Cyber Security,59.13,58.65,66.53,1,0,1,2,65,3.1,No,Not Placed,
+22CS375,Male,B.Sc CS,UG,Full Stack,66.7,65.43,71.45,1,1,2,2,68,7.6,Yes,Placed,5.4
+22CS376,Male,MCA,PG,Cyber Security,91.16,78.21,78.3,1,2,2,2,78,5.1,No,Placed,5.77
+22CS377,Female,M.Sc CS,PG,Full Stack,73.39,65.88,73.45,0,1,1,2,54,8.3,No,Not Placed,
+22CS378,Male,B.Sc CS,UG,Full Stack,84.4,79.33,74.84,1,2,2,2,69,5.9,Yes,Not Placed,
+22CS379,Male,M.Sc CS,PG,AI & Data Science,78.37,68.87,61.1,2,2,2,2,64,5.1,Yes,Not Placed,
+22CS380,Female,MCA,PG,AI & Data Science,74.95,61.85,64.35,0,2,0,2,72,5.7,No,Placed,6.26
+22CS381,Female,B.Sc CS,UG,Cyber Security,89.64,79.65,79.04,0,1,2,2,60,7.7,No,Placed,4.98
+22CS382,Female,MCA,PG,AI & Data Science,73.63,63.16,62.02,0,1,0,2,54,5.7,Yes,Not Placed,
+22CS383,Female,BCA,UG,AI & Data Science,58.19,60.34,63.5,3,2,1,2,22,5.2,No,Not Placed,
+22CS384,Male,M.Sc CS,PG,AI & Data Science,67.97,64.87,64.16,2,0,5,2,51,5.8,Yes,Not Placed,
+22CS385,Male,MCA,PG,AI & Data Science,81.51,72.53,77.52,0,2,4,2,63,4.1,No,Placed,6.29
+22CS386,Female,BCA,UG,Cloud & DevOps,79.96,87.18,83.31,0,0,2,2,60,7.2,Yes,Placed,4.35
+22CS387,Female,MCA,PG,Full Stack,60.33,65.89,70.14,0,0,2,2,67,3.1,No,Placed,4.11
+22CS388,Female,B.Sc CS,UG,Cloud & DevOps,68.76,71.54,73.41,1,2,3,2,66,5.5,Yes,Placed,4.97
+22CS389,Male,M.Sc CS,PG,AI & Data Science,70.18,61.41,64.7,1,1,3,2,29,7.3,No,Not Placed,
+22CS390,Female,M.Sc CS,PG,Cyber Security,72.35,68.66,69.99,0,0,4,2,68,6.7,No,Placed,6.29
+22CS391,Female,B.Sc CS,UG,Full Stack,62.24,67.8,63.94,0,0,1,2,47,7.2,Yes,Not Placed,
+22CS392,Male,BCA,UG,Full Stack,69.72,65.21,58.38,2,1,1,2,63,6.0,No,Placed,5.16
+22CS393,Female,B.Sc CS,UG,Cloud & DevOps,68.71,75.1,73.66,1,2,2,2,49,8.3,Yes,Placed,4.96
+22CS394,Female,B.Sc CS,UG,Cloud & DevOps,83.72,71.95,72.47,0,0,4,2,67,7.8,No,Placed,4.96
+22CS395,Male,B.Sc CS,UG,Cloud & DevOps,84.09,77.1,79.1,0,0,4,2,67,7.1,No,Placed,4.59
+22CS396,Male,B.Sc CS,UG,AI & Data Science,74.54,70.23,76.43,1,1,1,2,74,7.8,No,Placed,6.52
+22CS397,Female,B.Sc CS,UG,AI & Data Science,72.08,72.93,78.04,0,3,3,2,72,7.5,Yes,Placed,6.85
+22CS398,Male,B.Sc CS,UG,Cyber Security,77.4,71.51,66.91,0,1,1,2,59,5.5,Yes,Placed,5.08
+22CS399,Male,M.Sc CS,PG,AI & Data Science,67.83,68.25,67.54,0,3,3,2,41,3.9,Yes,Not Placed,
+22CS400,Male,M.Sc CS,PG,Cyber Security,64.53,66.62,69.89,1,2,4,2,44,6.8,No,Not Placed,
